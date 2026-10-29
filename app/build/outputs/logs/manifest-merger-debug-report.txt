@@ -1,0 +1,926 @@
+-- Merging decision tree log ---
+provider#androidx.startup.InitializationProvider
+INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:19:9-28:20
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a1d7038b3c8f19663382c44bbe89c46a\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a1d7038b3c8f19663382c44bbe89c46a\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:23:13-31
+	android:authorities
+		INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:21:13-68
+	android:exported
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:20:13-67
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:grantUriPermissions
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:44:13-47
+	android:authorities
+		INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:42:13-64
+	android:exported
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:41:13-62
+manifest
+ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\f02668835df1f7f54872fc4fb43908f8\workspace\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b1e10e8d269fab8b8c4ea6db9d9524b9\workspace\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a49729f77fbd55403bdeda40cbfb3e0\workspace\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c7e8e659aea30b277d42cce80318f03\workspace\transformed\navigation-common-2.8.8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\89e2caf3d0230fcea8dc80c8d879e0c0\workspace\transformed\navigation-runtime-2.8.8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\389e3ab1da2d930e4484c8ed8c0b5f47\workspace\transformed\navigation-common-ktx-2.8.8\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\73a2aad4aa087a162a725165b28ad55b\workspace\transformed\navigation-runtime-ktx-2.8.8\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7e48009ca1a9ffef26ac6a112187a6b4\workspace\transformed\navigation-compose-2.8.8\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\30a1795c5943d38b7a3169c2727c6bf8\workspace\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-work:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\9f7e67557d091ea32243e0765d26169a\workspace\transformed\hilt-work-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:hilt-android:2.52] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8054be2db8658a7078e4f84781a79cca\workspace\transformed\hilt-android-2.52\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2e751690b894f3c4c530ab973325db0a\workspace\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.mlkit:text-recognition:16.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0f248add75ec972d8c6741daa04c5564\workspace\transformed\text-recognition-16.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:19.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ced0a73b0b313fce78e4f6004f5e46c0\workspace\transformed\play-services-mlkit-text-recognition-19.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.mlkit:text-recognition-bundled-common:17.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ee2a1593dbb701adac129423819b715f\workspace\transformed\text-recognition-bundled-common-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:2:1-26:12
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b6701cde712c7fa9fd8594ad15e138d\workspace\transformed\coil-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\02451fc7dcd46a2fe6b1b3c8eb70b62b\workspace\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b5cb89233967a296751299c6ee4b0a21\workspace\transformed\coil-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3c74258f2ca94865c2799013696cc246\workspace\transformed\coil-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\89f16d7a7483d32c46e70ea2478cc6e9\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5f54b1d1456c77b78b84427371cd8579\workspace\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\684a9207caf102bff1ca097c268bc591\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3a4f61c258b904bfeece06576ed187cf\workspace\transformed\vision-interfaces-16.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.work:work-runtime-ktx:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2ac74b9c6b4c5f06ad0b9d120cdfffff\workspace\transformed\work-runtime-ktx-2.9.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\34f05e16fa5258019f4bf3ff696132ce\workspace\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ad03183860af61278b5112612675025\workspace\transformed\animation-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\beff91140e5e074b9ce0050f9c5322f7\workspace\transformed\material-ripple\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ab13a4f6c277f593fa53dcdd18e10efb\workspace\transformed\animation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\75f46df48fc9645a56a987976da0a3a1\workspace\transformed\foundation-layout\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b877c2e89d93ccb9cc8d5f0c2dec4545\workspace\transformed\foundation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\fbd2af4cc57efa81dc84682c82678dd7\workspace\transformed\ui-tooling-data\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\aa742ee5d4d25aa6ecd89daac2a3d8af\workspace\transformed\ui-unit\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12fdc19914ffd70b503fff162ea2651c\workspace\transformed\ui-geometry\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a4bb98b1238b49f82296fa2c2f593b6b\workspace\transformed\ui-util\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ee2ace536bfa46554d0da044fe8b9ba5\workspace\transformed\ui-text\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\501ce31a6d87287b01dae3ff537d81bf\workspace\transformed\ui-tooling-preview\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\10f15b845c6872aa01929735d8588ceb\workspace\transformed\ui-graphics\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\eb7849ce8c64f4663e48be1efca4b862\workspace\transformed\material3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\76fa894758c82c50294d695c7843c0d8\workspace\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b75c8f97f484bda8b573dff3a5e9fc31\workspace\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c75c03719f5dfe06dba350fc32d7afb9\workspace\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\48530363f627d639b2f4cd57c25c264a\workspace\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1dd318070cc0893c014ffc30d4fb1547\workspace\transformed\runtime-retain\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.6.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ad58c0b580057592a52e29b7d9533051\workspace\transformed\transition-1.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ecacd853a8410e898651c96c9adc372b\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1092053f0bcb645115b2a524a9a710f8\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\680aff78b9acad27fbf8e253ec982998\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\eee0056b01079be9c0c4b5d1db36e08a\workspace\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3f778bf0f31dfccefcd0f227a6b5772f\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2c53284ffcd35bafb164de294be6030e\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5bce57cb5643a90964bc0cac96c37dc4\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\40ca5820482cd50f068ef0eaf38176b4\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ca6130d7a690cb06fcb433a4e7efc228\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\caa2077f4538339a69c2e9f55e62ff3e\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\de39b670043972b8793080bf026ebfe3\workspace\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\cf3d1f86a17bc5bcdcb42afb1bc65295\workspace\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-core-android:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5edb9b196cdf2a8595b82ccd3cab46d8\workspace\transformed\window-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\df464e65ab397804343722c5052c537b\workspace\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a973eae89faf29b9168a4a3a589a86ae\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5d377ad100aed3e54af873ca1d8c5ab8\workspace\transformed\core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\015d8aa2b21fa538fbdd3b6337583dc4\workspace\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\cff395730779c6552d8e12b9ad74ce3a\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\d591cad234e5556069fd2a2e89b77281\workspace\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8f704ac2ebad9318260aebb3dc08eb74\workspace\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\857fca768c63f545521900bf082eff14\workspace\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3c86e0c658487c9dc354262978a9a577\workspace\transformed\lifecycle-service-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6c5c20a4cad63fc7a148f0bd159817de\workspace\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\e35b40e553589ab5b3ccd7ac0a2de527\workspace\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\f8850c64f3dc64c13f40d9b3ba22ee03\workspace\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\f00bd4602c476fae199c8c6011abe77c\workspace\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3f1f38f44ace5458a675d4b666aaf617\workspace\transformed\savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\9795d77a51d9342a25dd49d11c3f62cd\workspace\transformed\savedstate-ktx-1.3.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\788c93d09efe01ea1ea1793cfb6fc61e\workspace\transformed\savedstate-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0d61062c9cfc0099a2a09c9cc0d664cf\workspace\transformed\runtime\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0b6f5cf5576d86c63a81746c40a003d7\workspace\transformed\runtime-saveable\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\715d8b2519680f761920e1683faeb37b\workspace\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\65f16fe13b4259e4f2fd6a22bec2a665\workspace\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\00a38d61487879e6eab2abb4c32bd965\workspace\transformed\ui\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6c6fb7c59be0f3958e34abd339d55287\workspace\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0398c50b72bf615c76b0859a8776f9bd\workspace\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2e2b0ec840390472f1007b901a633ad7\workspace\transformed\activity-1.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\e1d93f22a595685028e3e183fe9ed895\workspace\transformed\activity-ktx-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\184c20e01dc42dd49293975aa2b1f813\workspace\transformed\activity-compose-1.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1f53cdaec99df13d8f86bec3ef0cee46\workspace\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c6569cf5d96d2226fd8ed05f33626cd0\workspace\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\980783535cca79c42b052dcde0f227df\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8106557368c4f2658c4f010dd3153d3a\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be6465b34a8796b661dcc6516a3213c6\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\e4a741f7dbb40b3cdbd23c4db54e075b\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a1d7038b3c8f19663382c44bbe89c46a\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\32679fd606aee82bf126f907516230d4\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8dad64b9b8b4e4c27c1051ba427e1dab\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b003ab8ae2070eef0b92f9df822cac87\workspace\transformed\transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1e61268cd1d2fb89670930f91399e63f\workspace\transformed\firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\afe60ee62ce10a1d5ef319e41b319026\workspace\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\eac4982e89453dad6a3158709b3d0590\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\fc268cfd239fc3a65ec48448cb0977d1\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8e73039ec2cc93a30ccd80a9756fc1ae\workspace\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\149fc8090d90f43a991489665b7ddab9\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\301d9c88d305cc2ceb6b4d0165675c31\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b6e7344a8cb2aab410f18b34f10b3dc\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\478db51cb520f935bd00f6b2c4f573d2\workspace\transformed\dagger-lint-aar-2.52\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7b7b8a8fa97fe4350e4858e1ff3c3188\workspace\transformed\image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:8:5-49:19
+INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:8:5-49:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\30a1795c5943d38b7a3169c2727c6bf8\workspace\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\30a1795c5943d38b7a3169c2727c6bf8\workspace\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2e751690b894f3c4c530ab973325db0a\workspace\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2e751690b894f3c4c530ab973325db0a\workspace\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6c6fb7c59be0f3958e34abd339d55287\workspace\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6c6fb7c59be0f3958e34abd339d55287\workspace\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8106557368c4f2658c4f010dd3153d3a\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8106557368c4f2658c4f010dd3153d3a\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a1d7038b3c8f19663382c44bbe89c46a\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a1d7038b3c8f19663382c44bbe89c46a\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7b7b8a8fa97fe4350e4858e1ff3c3188\workspace\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7b7b8a8fa97fe4350e4858e1ff3c3188\workspace\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:12:9-38
+	android:hardwareAccelerated
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:16:9-43
+	android:roundIcon
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:13:9-68
+	android:largeHeap
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:15:9-33
+	android:icon
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:11:9-63
+	android:allowBackup
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:17:9-50
+	android:name
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:9:9-35
+activity#ke.eldohub.training.ui.MainActivity
+ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:exported
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:33:13-57
+	android:name
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:31:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:36:27-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:24:13-27:39
+REJECTED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:34:13-36:52
+	tools:node
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:27:17-36
+	android:value
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:26:17-49
+	android:name
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:25:17-68
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:45:13-47:54
+	android:resource
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:47:17-51
+	android:name
+		ADDED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:46:17-67
+uses-sdk
+INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\f02668835df1f7f54872fc4fb43908f8\workspace\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\f02668835df1f7f54872fc4fb43908f8\workspace\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b1e10e8d269fab8b8c4ea6db9d9524b9\workspace\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b1e10e8d269fab8b8c4ea6db9d9524b9\workspace\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a49729f77fbd55403bdeda40cbfb3e0\workspace\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a49729f77fbd55403bdeda40cbfb3e0\workspace\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c7e8e659aea30b277d42cce80318f03\workspace\transformed\navigation-common-2.8.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c7e8e659aea30b277d42cce80318f03\workspace\transformed\navigation-common-2.8.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\89e2caf3d0230fcea8dc80c8d879e0c0\workspace\transformed\navigation-runtime-2.8.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\89e2caf3d0230fcea8dc80c8d879e0c0\workspace\transformed\navigation-runtime-2.8.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\389e3ab1da2d930e4484c8ed8c0b5f47\workspace\transformed\navigation-common-ktx-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\389e3ab1da2d930e4484c8ed8c0b5f47\workspace\transformed\navigation-common-ktx-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\73a2aad4aa087a162a725165b28ad55b\workspace\transformed\navigation-runtime-ktx-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\73a2aad4aa087a162a725165b28ad55b\workspace\transformed\navigation-runtime-ktx-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7e48009ca1a9ffef26ac6a112187a6b4\workspace\transformed\navigation-compose-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7e48009ca1a9ffef26ac6a112187a6b4\workspace\transformed\navigation-compose-2.8.8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\30a1795c5943d38b7a3169c2727c6bf8\workspace\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\30a1795c5943d38b7a3169c2727c6bf8\workspace\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-work:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\9f7e67557d091ea32243e0765d26169a\workspace\transformed\hilt-work-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-work:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\9f7e67557d091ea32243e0765d26169a\workspace\transformed\hilt-work-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.52] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8054be2db8658a7078e4f84781a79cca\workspace\transformed\hilt-android-2.52\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.52] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8054be2db8658a7078e4f84781a79cca\workspace\transformed\hilt-android-2.52\AndroidManifest.xml:18:3-42
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2e751690b894f3c4c530ab973325db0a\workspace\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2e751690b894f3c4c530ab973325db0a\workspace\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mlkit:text-recognition:16.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0f248add75ec972d8c6741daa04c5564\workspace\transformed\text-recognition-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:text-recognition:16.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0f248add75ec972d8c6741daa04c5564\workspace\transformed\text-recognition-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:19.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ced0a73b0b313fce78e4f6004f5e46c0\workspace\transformed\play-services-mlkit-text-recognition-19.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:19.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ced0a73b0b313fce78e4f6004f5e46c0\workspace\transformed\play-services-mlkit-text-recognition-19.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:text-recognition-bundled-common:17.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ee2a1593dbb701adac129423819b715f\workspace\transformed\text-recognition-bundled-common-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:text-recognition-bundled-common:17.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ee2a1593dbb701adac129423819b715f\workspace\transformed\text-recognition-bundled-common-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:6:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b6701cde712c7fa9fd8594ad15e138d\workspace\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b6701cde712c7fa9fd8594ad15e138d\workspace\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\02451fc7dcd46a2fe6b1b3c8eb70b62b\workspace\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\02451fc7dcd46a2fe6b1b3c8eb70b62b\workspace\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b5cb89233967a296751299c6ee4b0a21\workspace\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b5cb89233967a296751299c6ee4b0a21\workspace\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3c74258f2ca94865c2799013696cc246\workspace\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3c74258f2ca94865c2799013696cc246\workspace\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\89f16d7a7483d32c46e70ea2478cc6e9\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\89f16d7a7483d32c46e70ea2478cc6e9\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5f54b1d1456c77b78b84427371cd8579\workspace\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5f54b1d1456c77b78b84427371cd8579\workspace\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\684a9207caf102bff1ca097c268bc591\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\684a9207caf102bff1ca097c268bc591\workspace\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3a4f61c258b904bfeece06576ed187cf\workspace\transformed\vision-interfaces-16.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3a4f61c258b904bfeece06576ed187cf\workspace\transformed\vision-interfaces-16.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2ac74b9c6b4c5f06ad0b9d120cdfffff\workspace\transformed\work-runtime-ktx-2.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2ac74b9c6b4c5f06ad0b9d120cdfffff\workspace\transformed\work-runtime-ktx-2.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\34f05e16fa5258019f4bf3ff696132ce\workspace\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\34f05e16fa5258019f4bf3ff696132ce\workspace\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ad03183860af61278b5112612675025\workspace\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ad03183860af61278b5112612675025\workspace\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\beff91140e5e074b9ce0050f9c5322f7\workspace\transformed\material-ripple\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\beff91140e5e074b9ce0050f9c5322f7\workspace\transformed\material-ripple\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ab13a4f6c277f593fa53dcdd18e10efb\workspace\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ab13a4f6c277f593fa53dcdd18e10efb\workspace\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\75f46df48fc9645a56a987976da0a3a1\workspace\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\75f46df48fc9645a56a987976da0a3a1\workspace\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b877c2e89d93ccb9cc8d5f0c2dec4545\workspace\transformed\foundation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b877c2e89d93ccb9cc8d5f0c2dec4545\workspace\transformed\foundation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\fbd2af4cc57efa81dc84682c82678dd7\workspace\transformed\ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\fbd2af4cc57efa81dc84682c82678dd7\workspace\transformed\ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\aa742ee5d4d25aa6ecd89daac2a3d8af\workspace\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\aa742ee5d4d25aa6ecd89daac2a3d8af\workspace\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12fdc19914ffd70b503fff162ea2651c\workspace\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12fdc19914ffd70b503fff162ea2651c\workspace\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a4bb98b1238b49f82296fa2c2f593b6b\workspace\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a4bb98b1238b49f82296fa2c2f593b6b\workspace\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ee2ace536bfa46554d0da044fe8b9ba5\workspace\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ee2ace536bfa46554d0da044fe8b9ba5\workspace\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\501ce31a6d87287b01dae3ff537d81bf\workspace\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\501ce31a6d87287b01dae3ff537d81bf\workspace\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\10f15b845c6872aa01929735d8588ceb\workspace\transformed\ui-graphics\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\10f15b845c6872aa01929735d8588ceb\workspace\transformed\ui-graphics\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\eb7849ce8c64f4663e48be1efca4b862\workspace\transformed\material3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\eb7849ce8c64f4663e48be1efca4b862\workspace\transformed\material3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\76fa894758c82c50294d695c7843c0d8\workspace\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\76fa894758c82c50294d695c7843c0d8\workspace\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b75c8f97f484bda8b573dff3a5e9fc31\workspace\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b75c8f97f484bda8b573dff3a5e9fc31\workspace\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c75c03719f5dfe06dba350fc32d7afb9\workspace\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c75c03719f5dfe06dba350fc32d7afb9\workspace\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\48530363f627d639b2f4cd57c25c264a\workspace\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\48530363f627d639b2f4cd57c25c264a\workspace\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1dd318070cc0893c014ffc30d4fb1547\workspace\transformed\runtime-retain\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1dd318070cc0893c014ffc30d4fb1547\workspace\transformed\runtime-retain\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.6.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ad58c0b580057592a52e29b7d9533051\workspace\transformed\transition-1.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.6.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ad58c0b580057592a52e29b7d9533051\workspace\transformed\transition-1.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ecacd853a8410e898651c96c9adc372b\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ecacd853a8410e898651c96c9adc372b\workspace\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1092053f0bcb645115b2a524a9a710f8\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1092053f0bcb645115b2a524a9a710f8\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\680aff78b9acad27fbf8e253ec982998\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\680aff78b9acad27fbf8e253ec982998\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\eee0056b01079be9c0c4b5d1db36e08a\workspace\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\eee0056b01079be9c0c4b5d1db36e08a\workspace\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3f778bf0f31dfccefcd0f227a6b5772f\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3f778bf0f31dfccefcd0f227a6b5772f\workspace\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2c53284ffcd35bafb164de294be6030e\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2c53284ffcd35bafb164de294be6030e\workspace\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5bce57cb5643a90964bc0cac96c37dc4\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5bce57cb5643a90964bc0cac96c37dc4\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\40ca5820482cd50f068ef0eaf38176b4\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\40ca5820482cd50f068ef0eaf38176b4\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ca6130d7a690cb06fcb433a4e7efc228\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\ca6130d7a690cb06fcb433a4e7efc228\workspace\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\caa2077f4538339a69c2e9f55e62ff3e\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\caa2077f4538339a69c2e9f55e62ff3e\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\de39b670043972b8793080bf026ebfe3\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\de39b670043972b8793080bf026ebfe3\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\cf3d1f86a17bc5bcdcb42afb1bc65295\workspace\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\cf3d1f86a17bc5bcdcb42afb1bc65295\workspace\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-core-android:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5edb9b196cdf2a8595b82ccd3cab46d8\workspace\transformed\window-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5edb9b196cdf2a8595b82ccd3cab46d8\workspace\transformed\window-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\df464e65ab397804343722c5052c537b\workspace\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\df464e65ab397804343722c5052c537b\workspace\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a973eae89faf29b9168a4a3a589a86ae\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a973eae89faf29b9168a4a3a589a86ae\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5d377ad100aed3e54af873ca1d8c5ab8\workspace\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5d377ad100aed3e54af873ca1d8c5ab8\workspace\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\015d8aa2b21fa538fbdd3b6337583dc4\workspace\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\015d8aa2b21fa538fbdd3b6337583dc4\workspace\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\cff395730779c6552d8e12b9ad74ce3a\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\cff395730779c6552d8e12b9ad74ce3a\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\d591cad234e5556069fd2a2e89b77281\workspace\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\d591cad234e5556069fd2a2e89b77281\workspace\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8f704ac2ebad9318260aebb3dc08eb74\workspace\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8f704ac2ebad9318260aebb3dc08eb74\workspace\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\857fca768c63f545521900bf082eff14\workspace\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\857fca768c63f545521900bf082eff14\workspace\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3c86e0c658487c9dc354262978a9a577\workspace\transformed\lifecycle-service-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3c86e0c658487c9dc354262978a9a577\workspace\transformed\lifecycle-service-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6c5c20a4cad63fc7a148f0bd159817de\workspace\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6c5c20a4cad63fc7a148f0bd159817de\workspace\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\e35b40e553589ab5b3ccd7ac0a2de527\workspace\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\e35b40e553589ab5b3ccd7ac0a2de527\workspace\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\f8850c64f3dc64c13f40d9b3ba22ee03\workspace\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\f8850c64f3dc64c13f40d9b3ba22ee03\workspace\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\f00bd4602c476fae199c8c6011abe77c\workspace\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\f00bd4602c476fae199c8c6011abe77c\workspace\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3f1f38f44ace5458a675d4b666aaf617\workspace\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\3f1f38f44ace5458a675d4b666aaf617\workspace\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\9795d77a51d9342a25dd49d11c3f62cd\workspace\transformed\savedstate-ktx-1.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\9795d77a51d9342a25dd49d11c3f62cd\workspace\transformed\savedstate-ktx-1.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\788c93d09efe01ea1ea1793cfb6fc61e\workspace\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\788c93d09efe01ea1ea1793cfb6fc61e\workspace\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0d61062c9cfc0099a2a09c9cc0d664cf\workspace\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0d61062c9cfc0099a2a09c9cc0d664cf\workspace\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0b6f5cf5576d86c63a81746c40a003d7\workspace\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0b6f5cf5576d86c63a81746c40a003d7\workspace\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\715d8b2519680f761920e1683faeb37b\workspace\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\715d8b2519680f761920e1683faeb37b\workspace\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\65f16fe13b4259e4f2fd6a22bec2a665\workspace\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\65f16fe13b4259e4f2fd6a22bec2a665\workspace\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\00a38d61487879e6eab2abb4c32bd965\workspace\transformed\ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\00a38d61487879e6eab2abb4c32bd965\workspace\transformed\ui\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6c6fb7c59be0f3958e34abd339d55287\workspace\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6c6fb7c59be0f3958e34abd339d55287\workspace\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0398c50b72bf615c76b0859a8776f9bd\workspace\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0398c50b72bf615c76b0859a8776f9bd\workspace\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2e2b0ec840390472f1007b901a633ad7\workspace\transformed\activity-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2e2b0ec840390472f1007b901a633ad7\workspace\transformed\activity-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\e1d93f22a595685028e3e183fe9ed895\workspace\transformed\activity-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\e1d93f22a595685028e3e183fe9ed895\workspace\transformed\activity-ktx-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\184c20e01dc42dd49293975aa2b1f813\workspace\transformed\activity-compose-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\184c20e01dc42dd49293975aa2b1f813\workspace\transformed\activity-compose-1.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1f53cdaec99df13d8f86bec3ef0cee46\workspace\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1f53cdaec99df13d8f86bec3ef0cee46\workspace\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c6569cf5d96d2226fd8ed05f33626cd0\workspace\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c6569cf5d96d2226fd8ed05f33626cd0\workspace\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\980783535cca79c42b052dcde0f227df\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\980783535cca79c42b052dcde0f227df\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8106557368c4f2658c4f010dd3153d3a\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8106557368c4f2658c4f010dd3153d3a\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be6465b34a8796b661dcc6516a3213c6\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be6465b34a8796b661dcc6516a3213c6\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\e4a741f7dbb40b3cdbd23c4db54e075b\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\e4a741f7dbb40b3cdbd23c4db54e075b\workspace\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a1d7038b3c8f19663382c44bbe89c46a\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\a1d7038b3c8f19663382c44bbe89c46a\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\32679fd606aee82bf126f907516230d4\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\32679fd606aee82bf126f907516230d4\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8dad64b9b8b4e4c27c1051ba427e1dab\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8dad64b9b8b4e4c27c1051ba427e1dab\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b003ab8ae2070eef0b92f9df822cac87\workspace\transformed\transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b003ab8ae2070eef0b92f9df822cac87\workspace\transformed\transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1e61268cd1d2fb89670930f91399e63f\workspace\transformed\firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\1e61268cd1d2fb89670930f91399e63f\workspace\transformed\firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\afe60ee62ce10a1d5ef319e41b319026\workspace\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\afe60ee62ce10a1d5ef319e41b319026\workspace\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\eac4982e89453dad6a3158709b3d0590\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\eac4982e89453dad6a3158709b3d0590\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\fc268cfd239fc3a65ec48448cb0977d1\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\fc268cfd239fc3a65ec48448cb0977d1\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8e73039ec2cc93a30ccd80a9756fc1ae\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8e73039ec2cc93a30ccd80a9756fc1ae\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\149fc8090d90f43a991489665b7ddab9\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\149fc8090d90f43a991489665b7ddab9\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\301d9c88d305cc2ceb6b4d0165675c31\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\301d9c88d305cc2ceb6b4d0165675c31\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b6e7344a8cb2aab410f18b34f10b3dc\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b6e7344a8cb2aab410f18b34f10b3dc\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\478db51cb520f935bd00f6b2c4f573d2\workspace\transformed\dagger-lint-aar-2.52\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\478db51cb520f935bd00f6b2c4f573d2\workspace\transformed\dagger-lint-aar-2.52\AndroidManifest.xml:18:3-42
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7b7b8a8fa97fe4350e4858e1ff3c3188\workspace\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7b7b8a8fa97fe4350e4858e1ff3c3188\workspace\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:26:22-74
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:140:25-85
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:24:13-71
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#ke.eldohub.training.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#ke.eldohub.training.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:50:25-92
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:33:13-132

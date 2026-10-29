@@ -1,0 +1,459 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ke.eldohub.training"
+4    android:versionCode="2"
+5    android:versionName="1.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:23:5-68
+13-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:23:22-65
+14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+14-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:25:5-81
+14-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:25:22-78
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+15-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:26:5-77
+15-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:26:22-74
+16
+17    <permission
+17-->[androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+18        android:name="ke.eldohub.training.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="ke.eldohub.training.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:8:5-49:19
+24        android:name="ke.eldohub.training.EldoHubApp"
+24-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:9:9-35
+25        android:allowBackup="true"
+25-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:10:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.16.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\368399c05d7086544d75daaeab524835\workspace\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:hardwareAccelerated="true"
+29-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:16:9-43
+30        android:icon="@drawable/eldohub_logo_icon_pdf__1___1_"
+30-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:11:9-63
+31        android:label="Biz Mashinani"
+31-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:12:9-38
+32        android:largeHeap="true"
+32-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:15:9-33
+33        android:roundIcon="@drawable/eldohub_logo_icon_pdf__1___1_"
+33-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:13:9-68
+34        android:supportsRtl="true"
+34-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:14:9-35
+35        android:testOnly="true"
+36        android:theme="@style/Theme.App.Starting" >
+36-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:17:9-50
+37        <provider
+38            android:name="androidx.startup.InitializationProvider"
+38-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:20:13-67
+39            android:authorities="ke.eldohub.training.androidx-startup"
+39-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:21:13-68
+40            android:exported="false" >
+40-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:22:13-37
+41            <meta-data
+41-->[androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+42                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+42-->[androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+43                android:value="androidx.startup" />
+43-->[androidx.emoji2:emoji2:1.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\b6760186c406f8fa0221be8e5d662e39\workspace\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+44            <meta-data
+44-->[androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:29:13-31:52
+45                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+45-->[androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:30:17-78
+46                android:value="androidx.startup" />
+46-->[androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\62f103fa77a33b4b07e9ee05e8cc2a1c\workspace\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:31:17-49
+47            <meta-data
+47-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:29:13-31:52
+48                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+48-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:30:17-85
+49                android:value="androidx.startup" />
+49-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:31:17-49
+50        </provider>
+51
+52        <activity
+52-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:30:9-38:20
+53            android:name="ke.eldohub.training.ui.MainActivity"
+53-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:31:13-44
+54            android:exported="true"
+54-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:32:13-36
+55            android:theme="@style/Theme.EldoHubTraining" >
+55-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:33:13-57
+56            <intent-filter>
+56-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:34:13-37:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:35:17-69
+57-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:35:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:36:17-77
+59-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:36:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <provider
+64            android:name="androidx.core.content.FileProvider"
+64-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:41:13-62
+65            android:authorities="ke.eldohub.training.fileprovider"
+65-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:42:13-64
+66            android:exported="false"
+66-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:43:13-37
+67            android:grantUriPermissions="true" >
+67-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:44:13-47
+68            <meta-data
+68-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:45:13-47:54
+69                android:name="android.support.FILE_PROVIDER_PATHS"
+69-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:46:17-67
+70                android:resource="@xml/file_paths" />
+70-->C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\src\main\AndroidManifest.xml:47:17-51
+71        </provider>
+72
+73        <service
+73-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:9:9-15:19
+74            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+74-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:10:13-91
+75            android:directBootAware="true"
+75-->[com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:17:13-43
+76            android:exported="false" >
+76-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:11:13-37
+77            <meta-data
+77-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:12:13-14:85
+78                android:name="com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar"
+78-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:13:17-114
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.android.gms:play-services-mlkit-text-recognition-common:19.1.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\55cf463b9672a12de1afbc01855dce56\workspace\transformed\play-services-mlkit-text-recognition-common-19.1.0\AndroidManifest.xml:14:17-82
+80            <meta-data
+80-->[com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:12:13-14:85
+81                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+81-->[com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:13:17-124
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.mlkit:vision-common:17.3.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\5b7ea5126367b760a655d27b19b050dd\workspace\transformed\vision-common-17.3.0\AndroidManifest.xml:14:17-82
+83            <meta-data
+83-->[com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:20:13-22:85
+84                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+84-->[com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:21:17-120
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:22:17-82
+86        </service>
+87
+88        <provider
+88-->[com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:9:9-13:38
+89            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+89-->[com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:10:13-78
+90            android:authorities="ke.eldohub.training.mlkitinitprovider"
+90-->[com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:11:13-69
+91            android:exported="false"
+91-->[com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:12:13-37
+92            android:initOrder="99" />
+92-->[com.google.mlkit:common:18.11.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\12a064657aca0e138efab95e15bb80c8\workspace\transformed\common-18.11.0\AndroidManifest.xml:13:13-35
+93
+94        <activity
+94-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+95-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+96            android:exported="false"
+96-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\be49e7ceff85416b737247513d748c50\workspace\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+98
+99        <service
+99-->[androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+100            android:name="androidx.room.MultiInstanceInvalidationService"
+100-->[androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+101            android:directBootAware="true"
+101-->[androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+102            android:exported="false" />
+102-->[androidx.room:room-runtime:2.6.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\2aae266d0b30bd75572eaa920b0756bb\workspace\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+103        <service
+103-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:39:9-45:35
+104            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+104-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:40:13-88
+105            android:directBootAware="false"
+105-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:41:13-44
+106            android:enabled="@bool/enable_system_alarm_service_default"
+106-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:42:13-72
+107            android:exported="false" />
+107-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:43:13-37
+108        <service
+108-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:46:9-52:35
+109            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+109-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:47:13-84
+110            android:directBootAware="false"
+110-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:48:13-44
+111            android:enabled="@bool/enable_system_job_service_default"
+111-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:49:13-70
+112            android:exported="true"
+112-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:50:13-36
+113            android:permission="android.permission.BIND_JOB_SERVICE" />
+113-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:51:13-69
+114        <service
+114-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:53:9-59:35
+115            android:name="androidx.work.impl.foreground.SystemForegroundService"
+115-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:54:13-81
+116            android:directBootAware="false"
+116-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:55:13-44
+117            android:enabled="@bool/enable_system_foreground_service_default"
+117-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:56:13-77
+118            android:exported="false" />
+118-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:57:13-37
+119
+120        <receiver
+120-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:61:9-66:35
+121            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+121-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:62:13-88
+122            android:directBootAware="false"
+122-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:63:13-44
+123            android:enabled="true"
+123-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:64:13-35
+124            android:exported="false" />
+124-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:65:13-37
+125        <receiver
+125-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:67:9-77:20
+126            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+126-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:68:13-106
+127            android:directBootAware="false"
+127-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:69:13-44
+128            android:enabled="false"
+128-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:70:13-36
+129            android:exported="false" >
+129-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:71:13-37
+130            <intent-filter>
+130-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:73:13-76:29
+131                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+131-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:74:17-87
+131-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:74:25-84
+132                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+132-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:75:17-90
+132-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:75:25-87
+133            </intent-filter>
+134        </receiver>
+135        <receiver
+135-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:78:9-88:20
+136            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+136-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:79:13-104
+137            android:directBootAware="false"
+137-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:80:13-44
+138            android:enabled="false"
+138-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:81:13-36
+139            android:exported="false" >
+139-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:82:13-37
+140            <intent-filter>
+140-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:84:13-87:29
+141                <action android:name="android.intent.action.BATTERY_OKAY" />
+141-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:85:17-77
+141-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:85:25-74
+142                <action android:name="android.intent.action.BATTERY_LOW" />
+142-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:86:17-76
+142-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:86:25-73
+143            </intent-filter>
+144        </receiver>
+145        <receiver
+145-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:89:9-99:20
+146            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+146-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:90:13-104
+147            android:directBootAware="false"
+147-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:91:13-44
+148            android:enabled="false"
+148-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:92:13-36
+149            android:exported="false" >
+149-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:93:13-37
+150            <intent-filter>
+150-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:95:13-98:29
+151                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+151-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:96:17-83
+151-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:96:25-80
+152                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+152-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:97:17-82
+152-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:97:25-79
+153            </intent-filter>
+154        </receiver>
+155        <receiver
+155-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:100:9-109:20
+156            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+156-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:101:13-103
+157            android:directBootAware="false"
+157-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:102:13-44
+158            android:enabled="false"
+158-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:103:13-36
+159            android:exported="false" >
+159-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:104:13-37
+160            <intent-filter>
+160-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:106:13-108:29
+161                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+161-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:107:17-79
+161-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:107:25-76
+162            </intent-filter>
+163        </receiver>
+164        <receiver
+164-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:110:9-121:20
+165            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+165-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:111:13-88
+166            android:directBootAware="false"
+166-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:112:13-44
+167            android:enabled="false"
+167-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:113:13-36
+168            android:exported="false" >
+168-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:114:13-37
+169            <intent-filter>
+169-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:116:13-120:29
+170                <action android:name="android.intent.action.BOOT_COMPLETED" />
+170-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:117:17-79
+170-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:117:25-76
+171                <action android:name="android.intent.action.TIME_SET" />
+171-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:118:17-73
+171-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:118:25-70
+172                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+172-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:119:17-81
+172-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:119:25-78
+173            </intent-filter>
+174        </receiver>
+175        <receiver
+175-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:122:9-131:20
+176            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+176-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:123:13-99
+177            android:directBootAware="false"
+177-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:124:13-44
+178            android:enabled="@bool/enable_system_alarm_service_default"
+178-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:125:13-72
+179            android:exported="false" >
+179-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:126:13-37
+180            <intent-filter>
+180-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:128:13-130:29
+181                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+181-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:129:17-98
+181-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:129:25-95
+182            </intent-filter>
+183        </receiver>
+184        <receiver
+184-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:132:9-142:20
+185            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+185-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:133:13-78
+186            android:directBootAware="false"
+186-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:134:13-44
+187            android:enabled="true"
+187-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:135:13-35
+188            android:exported="true"
+188-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:136:13-36
+189            android:permission="android.permission.DUMP" >
+189-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:137:13-57
+190            <intent-filter>
+190-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:139:13-141:29
+191                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+191-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:140:17-88
+191-->[androidx.work:work-runtime:2.9.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\617e84cfb02922086d6884e760f6f4d3\workspace\transformed\work-runtime-2.9.1\AndroidManifest.xml:140:25-85
+192            </intent-filter>
+193        </receiver>
+194
+195        <activity
+195-->[androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:23:9-25:39
+196            android:name="androidx.compose.ui.tooling.PreviewActivity"
+196-->[androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:24:13-71
+197            android:exported="true" />
+197-->[androidx.compose.ui:ui-tooling-android:1.11.2] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\4f7dc75184677ecdbc6947edd1807a86\workspace\transformed\ui-tooling\AndroidManifest.xml:25:13-36
+198
+199        <uses-library
+199-->[androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:23:9-25:40
+200            android:name="androidx.window.extensions"
+200-->[androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:24:13-54
+201            android:required="false" />
+201-->[androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:25:13-37
+202        <uses-library
+202-->[androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:26:9-28:40
+203            android:name="androidx.window.sidecar"
+203-->[androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:27:13-51
+204            android:required="false" />
+204-->[androidx.window:window:1.5.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\c90322e19b84e770045dbb6de8deb454\workspace\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
+205
+206        <meta-data
+206-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+207            android:name="com.google.android.gms.version"
+207-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+208            android:value="@integer/google_play_services_version" />
+208-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\8c848617082c683ee33dce2c037dcff1\workspace\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+209
+210        <receiver
+210-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:34:9-52:20
+211            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+211-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:35:13-76
+212            android:directBootAware="false"
+212-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:36:13-44
+213            android:enabled="true"
+213-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:37:13-35
+214            android:exported="true"
+214-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:38:13-36
+215            android:permission="android.permission.DUMP" >
+215-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:39:13-57
+216            <intent-filter>
+216-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:40:13-42:29
+217                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+217-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:41:17-91
+217-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:41:25-88
+218            </intent-filter>
+219            <intent-filter>
+219-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:43:13-45:29
+220                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+220-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:44:17-85
+220-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:44:25-82
+221            </intent-filter>
+222            <intent-filter>
+222-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:46:13-48:29
+223                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+223-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:47:17-88
+223-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:47:25-85
+224            </intent-filter>
+225            <intent-filter>
+225-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:49:13-51:29
+226                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+226-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:50:17-95
+226-->[androidx.profileinstaller:profileinstaller:1.4.1] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\7ac10ae822e18916fe0fae711b69f601\workspace\transformed\profileinstaller-1.4.1\AndroidManifest.xml:50:25-92
+227            </intent-filter>
+228        </receiver>
+229
+230        <service
+230-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+231            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+231-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+232            android:exported="false" >
+232-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+233            <meta-data
+233-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+234                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+234-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+235                android:value="cct" />
+235-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\0bc63b21a2be90adba7fb5c8e0527199\workspace\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+236        </service>
+237        <service
+237-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+238            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+238-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+239            android:exported="false"
+239-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+240            android:permission="android.permission.BIND_JOB_SERVICE" >
+240-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+241        </service>
+242
+243        <receiver
+243-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+244            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+244-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+245            android:exported="false" />
+245-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\ZBOOK STUDIO NVIDIA\.gradle\caches\9.3.0\transforms\6a60abb417f8c1e3402b50c1ae142a59\workspace\transformed\transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+246    </application>
+247
+248</manifest>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="eldohub_green">#0C3B2E</color>
+    <string name="accessibility">Accessibility</string>
+    <string name="app_name">EldoHub Training</string>
+    <string name="biz_mashinani">Biz Mashinani</string>
+    <string name="connect_internet_action">Connect</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="go_back">Go back</string>
+    <string name="home">Home</string>
+    <string name="lg1">Logo</string>
+    <string name="manual_available">Manual is available for viewing</string>
+    <string name="manual_not_available">Manual not yet downloaded</string>
+    <string name="manuals">Manuals</string>
+    <string name="no_internet_sync">No internet connection. Please connect to the internet to synchronize training manuals.</string>
+    <string name="no_manuals_yet">No manuals yet</string>
+    <string name="no_recently_viewed">No recently viewed manuals yet.</string>
+    <string name="not_downloaded_yet">Not downloaded yet</string>
+    <string name="page_description">Page %1$d</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="read_aloud">Read aloud</string>
+    <string name="recently_viewed">Recently Viewed</string>
+    <string name="see_all">See All</string>
+    <string name="splash">Splash Image</string>
+    <string name="stop_reading">Stop reading</string>
+    <string name="sync_data">Sync Data</string>
+    <string name="sync_failed">Synchronization failed. Please check your internet connection.</string>
+    <string name="sync_instructions">Pull down or tap refresh to sync your training manuals.</string>
+    <string name="sync_now">Sync now</string>
+    <string name="toggle_high_contrast">Toggle high contrast</string>
+    <string name="total_manuals">Total Manuals</string>
+    <string name="trainers_app">Trainers App</string>
+    <string name="training_image_desc">Training</string>
+    <string name="viewer">Viewer</string>
+    <string name="welcome_subtitle">Your training manuals, all in one place.</string>
+    <string name="welcome_trainer">Welcome, Trainer 👋</string>
+    <style name="Theme.App" parent="Theme.EldoHubTraining"/>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/eldohub_logo_icon_pdf__1___1_</item>
+        <item name="windowSplashScreenBackground">@color/eldohub_green</item>
+        <item name="postSplashScreenTheme">@style/Theme.App</item>
+    </style>
+    <style name="Theme.EldoHubTraining" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/eldohub_green</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

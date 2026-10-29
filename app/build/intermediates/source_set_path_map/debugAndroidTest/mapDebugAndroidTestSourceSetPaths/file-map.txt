@@ -1,0 +1,4 @@
+ke.eldohub.training.test.app-androidTest-0 C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\build\generated\res\resValues\androidTest\debug
+ke.eldohub.training.test.app-mergeDebugAndroidTestResources-1 C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+ke.eldohub.training.test.app-mergeDebugAndroidTestResources-2 C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+ke.eldohub.training.test.app-debugAndroidTest-3 C:\Users\ZBOOK STUDIO NVIDIA\Desktop\EMB copy\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
